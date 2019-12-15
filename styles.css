@@ -20,10 +20,10 @@ a:hover{
 .tableh{
 	text-align: center;
 	font-size: 125%;
-    border: 4px dashed #20bcd5;
-    padding: 10px;
-    color:#20bcd5;
-    font-family: "handlee";
+    	border: 4px dashed #20bcd5;
+    	padding: 10px;
+    	color:#20bcd5;
+    	font-family: "handlee";
 }
 header{
 	width:100%;
@@ -53,6 +53,7 @@ header{
 #table {
     width: 80%;
     text-align:center;
+    font-family:"handlee";
 }
 table, th, td {
     border: 2px solid #cecece;
