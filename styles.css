@@ -62,7 +62,7 @@ table, th, td {
     table-layout: fixed;
 }
 .selected {
-    background-color: #f36f48;
+    background-color: #f00000;
     font-weight: bold;
     color: white;
 }
